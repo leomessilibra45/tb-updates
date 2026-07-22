@@ -1,9 +1,8 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "url": "https://github.com/leomessilibra45/tb-updates/releases/download/v1.1/com.tbkernelpro-debug-20260722152844.apk",
+  "force_update": true,
   "maintenance": false,
-  "maintenance_message": "We are upgrading TB Kernel Pro. Please check our channel.",
   "announce": false,
-  "announce_message": "",
   "channel": "https://t.me/tbkernelpro"
 }

@@ -1,9 +1,8 @@
 {
-    "version":  "1.3",
-    "url":  "https://github.com/leomessilibra45/tb-updates/releases/download/btkernel-v1.3/BTKernel-btkernel-v1.3.apk",
+    "version":  "1.4",
+    "url":  "https://github.com/leomessilibra45/tb-updates/releases/download/btkernel-v1.4/BTKernel-btkernel-v1.4.apk",
     "force_update":  true,
     "maintenance":  false,
-    "announce":  true,
-    "announce_message":  "Please join @btkernel",
+    "announce":  false,
     "channel":  "https://t.me/btkernel"
 }

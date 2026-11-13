@@ -4,11 +4,5 @@
     "force_update":  true,
     "maintenance":  false,
     "announce":  true,
-    "message": [
-        "Global 4.7",
-        "Korean 4.7",
-        "Taiwan 4.7",
-        "Vietnam 4.7",
-        "BGMI 4.6"
-    ]
+    "announce_message": "✓ Global 4.7\n✓ Korean 4.7\n✓ Taiwan 4.7\n✓ Vietnam 4.7\n✓ BGMI 4.6"
 }

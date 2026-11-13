@@ -3,6 +3,12 @@
     "url":  "https://github.com/leomessilibra45/tb-updates/releases/download/btkernel-v1.9/BTKernel-btkernel-v1.9.apk",
     "force_update":  true,
     "maintenance":  false,
-    "announce":  false,
-    "channel":  "https://t.me/btkernel"
+    "announce":  true,
+    "message": [
+        "Global 4.7",
+        "Korean 4.7",
+        "Taiwan 4.7",
+        "Vietnam 4.7",
+        "BGMI 4.6"
+    ]
 }
